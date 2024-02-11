@@ -8,7 +8,7 @@ Utilizing **customtkinter** gives the application a visual edge over application
 
 <p align="center">
 <img width="792" alt="preview" src="https://github.com/Mabruk7/Finance-tracking/blob/559620ff4bcc811cf9cbe30e5ed8600c67d13a6f/Assets/preview.png">
-<img width="786" alt="pie_chart" src="https://github.com/Mabruk7/Finance-tracking/blob/559620ff4bcc811cf9cbe30e5ed8600c67d13a6f/Assets/flowchart.png">
+<img width="786" alt="pie_chart" src="Assets/piechart.png">
 
 ## Prerequisites ⚙️
 
