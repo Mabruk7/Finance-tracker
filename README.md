@@ -7,8 +7,8 @@ A finance tracker application built using Python's tkinter module. It allows the
 Utilizing **customtkinter** gives the application a visual edge over applications developed with tkinter only! 🎨
 
 <p align="center">
-<img width="792" alt="preview" src="C:\Users\Glory\Documents\Finance app\Assets\preview.png">
-<img width="786" alt="pie_chart" src="C:\Users\Glory\Documents\Finance app\Assets\piechart.png">
+<img width="792" alt="preview" src="https://github.com/Mabruk7/Finance-tracking/blob/559620ff4bcc811cf9cbe30e5ed8600c67d13a6f/Assets/preview.png">
+<img width="786" alt="pie_chart" src="https://github.com/Mabruk7/Finance-tracking/blob/559620ff4bcc811cf9cbe30e5ed8600c67d13a6f/Assets/flowchart.png">
 
 ## Prerequisites ⚙️
 
@@ -37,7 +37,7 @@ python3 main.py
 
 ### Flowchart of the code 🤹‍♀️
 
-![Finace_tracker drawio](C:\Users\Glory\Documents\Finance app\Assets\flowchart.png)
+![Finace_tracker drawio](https://github.com/Mabruk7/Finance-tracking/blob/559620ff4bcc811cf9cbe30e5ed8600c67d13a6f/Assets/flowchart.png)
 
 ## Moving Forward...🐾
 
