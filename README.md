@@ -1,7 +1,6 @@
 # Finance Tracker 📋
 
-A finance tracker application built using Python's tkinter module. It allows the user to keep track of their income and expenses, and visualize their balance through a pie chart. 🥧📊
-Utilizing **customtkinter** gives the application a visual edge over applications developed with tkinter only! 🎨
+A financial tracker program created with the tkinter package in Python. It enables the user to monitor their earnings and outlays and see their balance as a pie chart. Applications produced with customtkinter have a better visual experience than those developed with tkinter alone.
 
 <p align="center">
 <img width="792" alt="preview" src="Assets/preview.png">
